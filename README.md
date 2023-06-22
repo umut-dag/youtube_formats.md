@@ -84,6 +84,12 @@ Depending on the age and/or popularity of the video, not all formats will be ava
 bestvideo[ext=webm]+251/bestvideo[ext=mp4]+(258/256/140)/bestvideo[ext=webm]+(250/249)/best
 ```
 
+### For archiving videos: Only choose combinations that fit WebM (VP9+Opus)
+
+```
+(313/315/337)+(251/250/249)
+```
+
 ### For archiving audio: Choose any format that's best
 AAC Surround 384 / Opus 160 / AAC 192 / AAC Surround 192 / AAC 128 / Opus 70 / AAC 96 / Opus 50 / AAC 48
 
